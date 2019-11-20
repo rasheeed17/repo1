@@ -14,4 +14,4 @@ Answer:
 - use Docker for same environment
 - use micro services to reduce the impact on  functionalities other than updated one
 - overcome risks to avoid failure before pushing the code
-
+jfnfnfnnf
